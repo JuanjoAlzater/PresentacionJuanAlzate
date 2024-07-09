@@ -101,8 +101,9 @@ body{
     background-color:var(--color-hover);
 }
 
-.presentaciono__imagen{
+.presentacion__imagen{
     width: 50%;
+    border-radius: 8px;
 }
 .footer{
     background-color: var(--color-terciario);
